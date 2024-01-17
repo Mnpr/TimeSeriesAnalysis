@@ -1,0 +1,17 @@
+name: timeseries
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pip:
+      - darts
+      - skforecast
+  - python=3.10
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - tqdm
+
+channels:
+  - conda-forge
