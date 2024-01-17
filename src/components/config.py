@@ -19,3 +19,5 @@ io_paths = {
     "VIZ_OUTPUT_1": "./output/dataset1/",
     "VIZ_OUTPUT_2": "./output/dataset2/",
 }
+
+DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
