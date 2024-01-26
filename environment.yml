@@ -12,6 +12,7 @@ dependencies:
   - scikit-learn
   - statsmodels
   - tqdm
+  - structlog
 
 channels:
   - conda-forge
