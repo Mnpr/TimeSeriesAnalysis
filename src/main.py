@@ -10,7 +10,7 @@ from components.ts_logger import logger
 
 
 if __name__ == "__main__":
-    
+
     dataset_path = config.io_paths["DATASET"]
     index_column = "DateTime"
     datetime_format = config.DATETIME_FORMAT
